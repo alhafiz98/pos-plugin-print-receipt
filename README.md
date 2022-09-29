@@ -1,1 +1,1 @@
-# pos-plugin
+# pos-plugin-print-receipt
